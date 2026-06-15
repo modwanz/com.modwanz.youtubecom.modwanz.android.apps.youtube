@@ -1,3 +1,4 @@
+<div align="center">
 Modwanz TuBee
 ==============
 
@@ -42,12 +43,10 @@ Modwanz TuBee
 
 ---
 
-## 📸 Screenshots
-<p align="center">
+## 📸 Screenshot
 <img src="screenshot1.jpg" width="250">
 <img src="screenshot2.jpg" width="250">
 <img src="screenshot3.jpg" width="250">
-</p>
 ---
 
 ## ⚠ Disclaimer
