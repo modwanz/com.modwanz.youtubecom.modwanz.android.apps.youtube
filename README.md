@@ -2,7 +2,7 @@ Modwanz TuBee
 ==============
 
 <p align="center">
-  <img src="assets/logo.png" alt="Background Remover" width="180" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Modwanz%20TuBee.png" alt="Background Remover" width="180" />
 </p>
 
 
