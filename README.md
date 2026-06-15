@@ -1,6 +1,8 @@
+# 
+
 <div align="center">
-Modwanz TuBee
-==============
+
+# Modwanz TuBee
 
 <p align="center">
   <img src="https://i.imgur.com/banner.jpg" width="100%">
@@ -22,13 +24,18 @@ Modwanz TuBee
 
 ---
 
-<p align="center">
-  <a href="https://modwanz.blogspot.com/2026/06/youtube-modwanz.html?m=" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/➜] DOWNLOAD-NOW-red?style=for-the-badge"
-         valign="middle">
-  </a>
+## <p align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png"
+       width="32"
+       align="center">
+  <b>Download</b>
 </p>
 
+<p align="center">
+  <a href="https://example.com/download">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -36,17 +43,19 @@ Modwanz TuBee
 
 | Item | Detail |
 |--------|--------|
-| Name | Modwanz TuBee |
-| Version | 20.12.46 - modwanz |
+| Name | YouTube Mod |
+| Version | 20.12.46 |
 | Android | 8.0+ |
-| Size | 8.8 MB |
+| Size | 120 MB |
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
+
 <img src="screenshot1.jpg" width="250">
 <img src="screenshot2.jpg" width="250">
 <img src="screenshot3.jpg" width="250">
+
 ---
 
 ## ⚠ Disclaimer
