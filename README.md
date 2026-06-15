@@ -1,8 +1,8 @@
-# Modwanz TuBee
+# 
 
 <div align="center">
 
-# YouTube Mod
+# Modwanz TuBee
 
 ⭐ **Love this project? Give it a star!** ⭐
 
