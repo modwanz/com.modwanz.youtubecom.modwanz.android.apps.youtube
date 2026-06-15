@@ -1,5 +1,3 @@
-# 
-
 <div align="center">
 
 # Modwanz TuBee
@@ -25,7 +23,7 @@
 ---
 
 ## <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png"
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/download.gif"
        width="32"
        align="center">
   <b>Download</b>
@@ -43,7 +41,7 @@
 
 | Item | Detail |
 |--------|--------|
-| Name | YouTube Mod |
+| Name | Modwanz TuBee |
 | Version | 20.12.46 |
 | Android | 8.0+ |
 | Size | 120 MB |
