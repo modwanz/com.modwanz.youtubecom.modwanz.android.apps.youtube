@@ -1,79 +1,32 @@
-# 
+YtModwanz
+============
 
-<div align="center">
+YtModwanz is an advanced webview wrapper for YouTube.
 
-# Modwanz TuBee
+## Releases
+See the following release notes for details.
 
-<p align="center">
-  <img src="https://i.imgur.com/banner.jpg" width="100%">
-</p>
-
-## 📺 Preview
-
-[![Watch Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
-
----
-
-## ✨ Features
-
-- Premium Unlocked
-- No Ads
-- Background Play
-- SponsorBlock
-- AMOLED Theme
-
----
-
-## <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png"
-       width="32"
-       align="center">
-  <b>Download</b>
-</p>
-
-<p align="center">
-  <a href="https://example.com/download">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
-  </a>
-</p>
-
----
-
-## 📋 Information
-
-| Item | Detail |
-|--------|--------|
-| Name | YouTube Mod |
-| Version | 20.12.46 |
-| Android | 8.0+ |
-| Size | 120 MB |
-
----
-
-## 📸 Screenshots
-
-<img src="screenshot1.jpg" width="250">
-<img src="screenshot2.jpg" width="250">
-<img src="screenshot3.jpg" width="250">
-
----
-
-## ⚠ Disclaimer
-
-This project is for educational purposes only.
+**Lastest Release: [v2.1.4](https://github.com/modwanz/YtModwanz/releases/latest)**
 
 
+**Important Releases: [v2.0.2](https://github.com/modwanz/YtModwanz/releases/tag/v2.0.2), [v2.1.4](https://github.com/modwanz/YtModwanz/releases/tag/v2.1.4)**
+
+## Features
+* [x] **Sponsor-block**
+* [x] **Ad-free playback**
+* [x] **Mini-player support**
+* [x] **Local queue support**
+* [x] **Gemini Model Updates**
+* [x] **Live stream chat support, etc**
+* [x] **Built-in video and playlist downloader**
+* [x] **Background & Picture-in-Picture support**
+
+## Screenshots
 
 
+<img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/1.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/2.jpg" alt="" width="350"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/3.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/4.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/5.jpg" alt="" width="200">
 
+## Contributing
 
+If you encounter a bug, please check the GitHub repository to see if an issue has already been reported. If not, feel free to open a new one. Code contributions and pull requests are always welcome!
 
-⭐ **Love this project? Give it a star!** ⭐
-
-[![Stars](https://img.shields.io/github/stars/modwanz/com.modwanz.youtubecom.modwanz.android.apps.youtube.svg?style=for-the-badge)](https://github.com/modwanz/com.modwanz.youtubecom.modwanz.android.apps.youtube)
-
-<br><br>
-
-Thanks for your support ❤️
-
-</div>
