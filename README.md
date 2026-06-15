@@ -1,7 +1,9 @@
 Modwanz TuBee
 ==============
 
-Modwanz TuBee is an advanced webview wrapper for YouTube.
+Modwanz TuBee is your ultimate video player, offering a seamless way to play videos without logging in. Play videos without connecting to an account, like no one is watching. Easily clear your history. Create and import playlists.
+
+Discover and watch millions of free, high-quality videos! Keep videos playing while using other apps, making TuBee the perfect tool for video enthusiasts.
 
 ## Releases
 See the following release notes for details.
