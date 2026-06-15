@@ -4,11 +4,6 @@
 
 # Modwanz TuBee
 
-
-
-
-# YouTube Modwanz
-
 <p align="center">
   <img src="https://i.imgur.com/banner.jpg" width="100%">
 </p>
