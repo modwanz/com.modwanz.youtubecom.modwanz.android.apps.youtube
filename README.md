@@ -24,7 +24,7 @@
 
 ---
 
-## 📥 Download
+## <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png" width="24" alt="Logo"> Download
 
 <p align="center">
   <a href="https://example.com/download">
