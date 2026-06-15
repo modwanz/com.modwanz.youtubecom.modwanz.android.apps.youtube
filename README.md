@@ -7,6 +7,15 @@
 
 
 
+<p align="center">
+  <a href="https://example.com/download">
+    <img src="https://img.shields.io/badge/⭳_DOWNLOAD-APK_Edition-FF1744?style=for-the-badge&labelColor=2D2D2D">
+  </a>
+</p>
+
+
+
+
 
 
 
