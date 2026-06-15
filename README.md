@@ -45,3 +45,15 @@ See the following release notes for details.
 
 If you encounter a bug, please check the GitHub repository to see if an issue has already been reported. If not, feel free to open a new one. Code contributions and pull requests are always welcome!
 
+## Rate Us
+<div align="center">
+
+⭐ **Love this project? Give it a star!** ⭐
+
+[![Stars](https://img.shields.io/github/stars/modwanz/com.modwanz.youtubecom.modwanz.android.apps.youtube.svg?style=for-the-badge)](https://github.com/modwanz/com.modwanz.youtubecom.modwanz.android.apps.youtube)
+
+<br><br>
+
+Thanks for your support ❤️
+
+</div>
