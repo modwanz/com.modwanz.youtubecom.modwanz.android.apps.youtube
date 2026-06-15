@@ -22,13 +22,8 @@
 
 ---
 
-## <p align="center">
-  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/download.gif"
-       width="32"
-       align="center">
-  <b>Download</b>
-</p>
-
+## <
+<img src="[https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge](https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png)">
 <p align="center">
   <a href="https://example.com/download">
     <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
@@ -41,7 +36,7 @@
 
 | Item | Detail |
 |--------|--------|
-| Name | Modwanz TuBee |
+| Name | YouTube Mod |
 | Version | 20.12.46 |
 | Android | 8.0+ |
 | Size | 120 MB |
