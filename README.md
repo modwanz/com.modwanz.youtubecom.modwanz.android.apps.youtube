@@ -1,28 +1,4 @@
 
-<p align="center">
-  <a href="https://example.com/download">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-NOW-e53935?style=for-the-badge&labelColor=555555" />
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://example.com/download">
-    <img src="https://img.shields.io/badge/⭳_DOWNLOAD-APK_Edition-FF1744?style=for-the-badge&labelColor=2D2D2D">
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 # Modwanz TuBee
@@ -49,7 +25,7 @@
 
 <p align="center">
   <a href="https://example.com/download" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge"
+    <img src="https://img.shields.io/badge/➜]DOWNLOAD-NOW-red?style=for-the-badge"
          valign="middle">
   </a>
 </p>
