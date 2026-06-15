@@ -22,13 +22,16 @@
 
 ---
 
-## <
-<img src="[https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge](https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png)">
 <p align="center">
-  <a href="https://example.com/download">
-    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
+  <a href="https://example.com/download" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png"
+         width="20"
+         valign="middle">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge"
+         valign="middle">
   </a>
 </p>
+
 
 ---
 
