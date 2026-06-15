@@ -24,7 +24,12 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png" width="24" alt="Logo"> Download
+## <h2 align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/10009249.png"
+       width="32"
+       style="vertical-align: middle;">
+  Download
+</h2>
 
 <p align="center">
   <a href="https://example.com/download">
