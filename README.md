@@ -1,6 +1,12 @@
 Modwanz TuBee
 ==============
 
+<p align="center">
+  <img src="assets/logo.png" alt="Background Remover" width="180" />
+</p>
+
+
+
 Modwanz TuBee watch videos without logging in, manage playlists, and enjoy background playback.
 
 ## Releases
