@@ -1,7 +1,7 @@
 Modwanz TuBee
 ==============
 
-YtModwanz is an advanced webview wrapper for YouTube.
+Modwanz TuBee is an advanced webview wrapper for YouTube.
 
 ## Releases
 See the following release notes for details.
@@ -29,8 +29,16 @@ See the following release notes for details.
 
 ## Screenshots
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee1.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee2.webp" width="45%" />
+</p>
 
-<img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee1.webp" alt="" width="926"><img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee2.webp" alt="" width="926"><img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee3.webp" alt="" width="245"><img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee4.webp" alt="" width="245">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee3.webp" width="45%" />
+  <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee4.webp" width="45%" />
+</p>
+
 
 ## Contributing
 
