@@ -6,10 +6,10 @@ Modwanz TuBee is an advanced webview wrapper for YouTube.
 ## Releases
 See the following release notes for details.
 
-**Lastest Release: [v2.1.4](#)**
+**Lastest Release: [1.01.44](#)**
 
 
-**Important Releases: [v2.0.2](#), [v2.1.4](#)**
+**Important Releases: [1.01.43](#), [1.01.44](#)**
 
 
 <p align="center">
