@@ -54,6 +54,6 @@ If you encounter a bug, please check the GitHub repository to see if an issue ha
 
 <br><br>
 
-Thanks for your support ❤️
+Thanks for your support ❤️ Modwanz Team
 
 </div>
