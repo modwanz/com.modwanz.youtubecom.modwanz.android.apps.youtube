@@ -1,9 +1,7 @@
 Modwanz TuBee
 ==============
 
-Modwanz TuBee is your ultimate video player, offering a seamless way to play videos without logging in. Play videos without connecting to an account, like no one is watching. Easily clear your history. Create and import playlists.
-
-Discover and watch millions of free, high-quality videos! Keep videos playing while using other apps, making TuBee the perfect tool for video enthusiasts.
+Modwanz TuBee watch videos without logging in, manage playlists, and enjoy background playback.
 
 ## Releases
 See the following release notes for details.
