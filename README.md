@@ -30,7 +30,7 @@ See the following release notes for details.
 ## Screenshots
 
 
-<img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/1.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/2.jpg" alt="" width="350"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/3.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/4.jpg" alt="" width="200"><img title="" src="https://github.com/modwanz/YtModwanz/blob/main/main/5.jpg" alt="" width="200">
+<img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee1.webp" alt="" width="210"><img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee2.webp" alt="" width="210"><img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee3.webp" alt="" width="210"><img title="" src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/ModwanzTubee4.webp" alt="" width="210">
 
 ## Contributing
 
