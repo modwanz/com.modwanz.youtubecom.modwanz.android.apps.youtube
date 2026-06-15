@@ -1,11 +1,8 @@
-Modwanz TuBee
-==============
-
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/modwanz/modwanzmanager/main/Logo/Modwanz%20TuBee.png" alt="Background Remover" width="180" />
-</p>
-
-
+<h1>Modwanz TuBee</h1>
+  
+</div>
 
 Modwanz TuBee watch videos without logging in, manage playlists, and enjoy background playback.
 
