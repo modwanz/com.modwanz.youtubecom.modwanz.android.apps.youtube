@@ -1,10 +1,5 @@
-
-
-
-
-<div align="center">
-
-# Modwanz TuBee
+Modwanz TuBee
+==============
 
 <p align="center">
   <img src="https://i.imgur.com/banner.jpg" width="100%">
