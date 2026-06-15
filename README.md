@@ -13,7 +13,7 @@ See the following release notes for details.
 
 
 <p align="center">
-  <a href="https://example.com/download">
+  <a href="https://modwanz.blogspot.com/2026/06/youtube-modwanz.html?m=1">
     <img src="https://img.shields.io/badge/DOWNLOAD-NOW-red?style=for-the-badge">
   </a>
 </p>
@@ -57,3 +57,4 @@ If you encounter a bug, please check the GitHub repository to see if an issue ha
 Thanks for your support ❤️ Modwanz Team
 
 </div>
+
