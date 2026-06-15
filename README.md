@@ -18,15 +18,6 @@ See the following release notes for details.
   </a>
 </p>
 
-## Information
-
-| Item | Detail |
-|--------|--------|
-| Name | Modwanz TuBee |
-| Version | 1.01.44 - modwanz |
-| Android | 8.0+ |
-| Size | 8.85 MB |
-
 ## Features
 * [x] **Sponsor-block**
 * [x] **Ad-free playback**
