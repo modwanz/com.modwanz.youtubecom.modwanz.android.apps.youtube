@@ -19,14 +19,13 @@ See the following release notes for details.
 </p>
 
 ## Features
-* [x] **Sponsor-block**
-* [x] **Ad-free playback**
-* [x] **Mini-player support**
-* [x] **Local queue support**
-* [x] **Gemini Model Updates**
-* [x] **Live stream chat support, etc**
-* [x] **Built-in video and playlist downloader**
-* [x] **Background & Picture-in-Picture support**
+* [x] **Fast video search**
+* [x] **Dark and light themes**
+* [x] **Create and import playlists**
+* [x] **No need to log in to an account**
+* [x] **Favorites and playlist shortcuts**
+* [x] **Video playback in the background**
+* [x] **Picture-in-Picture mode (floating video)**
 
 ## Screenshots
 
